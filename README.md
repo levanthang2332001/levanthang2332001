@@ -46,7 +46,6 @@ const wynn: Developer = {
 ### 🧠 [Sentient Finance](https://github.com/Sentient-Finance) — *2026 – Present*
 > Autonomous DeFi AI Wallet System — self-directed AI agent that manages on-chain assets, executes vault strategies, and simulates CRE workflows end-to-end.
 
-`Python` `TypeScript` `Solidity` `AI Agents` `DeFi Vaults`
 
 🔗 [Live Demo](https://sentient-fe.vercel.app) · [Org](https://github.com/Sentient-Finance)
 
@@ -55,7 +54,6 @@ const wynn: Developer = {
 ### 🤖 [Trego DeFai](https://github.com/levanthang2332001/trego-defai) — *Aug 2025 – Present*
 > AI-driven Web3 interface that aggregates liquidity across DEXs and executes Swaps & Staking via natural language commands.
 
-`Next.js` `NestJS` `LangChain.js` `Supabase` `Aptos SDK` `TailwindCSS`
 
 🔗 [Live Demo](https://trego-defai.vercel.app/) · [Source](https://github.com/levanthang2332001/trego-defai)
 
@@ -64,7 +62,6 @@ const wynn: Developer = {
 ### 💸 [Tasmil Finance](https://github.com/levanthang2332001/tasmil-finance) — *Jul 2025 – Sep 2025*
 > AI-powered DeFi platform on Aptos that converts natural language intents into on-chain transactions for Swap & Staking. 🏆 Top 6 GM Vietnam Aptos Hackathon 2025.
 
-`NestJS` `LangChain.js` `Redis` `Supabase` `Aptos SDK` `Thala` `Liquidswap`
 
 🔗 [Live Demo](https://tasmil-finance.vercel.app) · [Source](https://github.com/levanthang2332001/tasmil-finance)
 
